@@ -73,7 +73,7 @@ proyecto-natalidad/
 | Most affected locality | Parral (-78.7%) |
 | Partial recovery observed | Curicó (+5.6% in 2024–2025) |
 
-📄 [Full descriptive report (Phase 1) →](./docs/Informe_Nacimientos_Maule_2018_2025.docx)
+📄 [Full descriptive report (Phase 1) →](Informe_Nacimientos_Maule_2018_2025.docx)
 
 ---
 
